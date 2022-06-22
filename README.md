@@ -5,9 +5,9 @@ Project name: NYC City Bike Rideshare Study and Forecasting
 Project member: Xi Yan & Marissa Ferrighetto 
 
 ## Access to final report
-[Final report (jupyter notebook)](https://github.com/Nellyan4/minimum_wage_study/blob/main/Final.ipynb)
+[Final report (jupyter notebook)](https://github.com/Nellyan4/Citibike_forecasting/blob/main/Project2-Final.ipynb)
 
-[Recorded presentation in Youtube](https://youtu.be/c303cyhCUzU)
+[Recorded presentation in box](https://youtu.be/c303cyhCUzU](https://cmu.app.box.com/s/tg6iev9omnd9144kxvhk0lwzduzx3dfl))
 
 ## Key Findings:
 1. Our trained models performed better than the baselines for the two research questions
