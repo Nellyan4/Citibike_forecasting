@@ -15,12 +15,6 @@ Project member: Xi Yan & Marissa Ferrighetto
 3. The models can also help them understanding ridership trends by the type of user engagement
 4. Understanding these trends can allow them to create user personas to guide marketing decisions and user experience considerations as the program grows
 
-
-## Implications of Findings:
-Democratic state and governors have done sufficient work to increase the minimum wage so that to protect their workers from being harm by the inflation. Yet, due to the unchanged minimum wage in many Republican states, workers in those states are harmed by earning less hourly rate from 1970 and 2020. This needs to be changed in Republican states.
-
-The increases of minimum wage could be beneficial to labor productivity, as exhibited in data. State governors should not be too afraid to increase minimum wage since the increase in labor productivity could substitute the cost for labor.
-
 ## Motivation
 As Heinz students, studying public policy and information systems, we are interested in how we can apply data science to public problems. We are interested in public transit and commuter patterns through cities. When we saw the expansive data set from New York City’s bike-share system, we were interested in applying machine learning techniques to the data.
 
